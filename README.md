@@ -1,5 +1,7 @@
 # HTTPCS
 Simple HTTP server written in C.
 
-Silly little spaghetti code written in like 5 hours.
-If it doesn't work, idk, it works on my machine.
+When I wrote this, only God and I understood what I was doing.
+Now, only God knows.
+
+[License](./LICENSE.md)
